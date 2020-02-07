@@ -1,2 +1,2 @@
 def function():
-    print("Hello World")
+    print("Bye World!")
